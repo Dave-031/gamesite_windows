@@ -19,7 +19,7 @@ const wallpapers = {
     'https://unpkg.com/7.css': "https://cdn.jsdelivr.net/gh/Dave-031/Newdemo@18303d7b050c223085e4065a091ce377e058be01/images/7_wallpaper.jpg"
 };
 
-const STORAGE_KEY = 'game-station-settings-v1';
+const STORAGE_KEY = 'windows_gamesite';
 const defaultSettings = {
     selectedTheme: 'https://unpkg.com/7.css',
     customBackgrounds: {},
